@@ -1,1 +1,3 @@
-# Restaurant-website-
+# Restaurant-website
+
+On the restaurant website, I created a landing page where users can learn about the restaurant and explore it. They can select their preferred menu items and place an order. The menu displays food ratings along with the prices, so users can see how much each dish costs. The restaurant provides many services, such as home delivery, table reservation, and online food ordering. In the review section, customers' reviews are available, giving users an idea of the quality of the restaurant's food. If users want to reserve a table, a form is available where they can fill in their details to reserve a table. For any further information, contact numbers are provided in the footer, allowing users to call and ask any queries they may have.
